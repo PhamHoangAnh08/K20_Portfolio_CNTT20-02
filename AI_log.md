@@ -37,7 +37,7 @@
 - [ ] Bác bỏ gợi ý
 
 - Tôi quyết định làm gì: Làm như AI gợi ý
-- Lý do, dựa trên dữ kiện nào: dựa vào đúng mình thiếu và sửa theo thử như AI gọi ý và thành công.
+- Lý do, dựa trên dữ kiện nào: dựa vào đúng mình thiếu và sửa theo thử như AI gợi ý và thành công.
 
 ## 4. Thực hiện và kiểm chứng
 
