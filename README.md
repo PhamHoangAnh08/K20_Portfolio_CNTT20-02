@@ -10,7 +10,7 @@ https://PhamHoangAnh08.github.io/K20_Portfolio_CNTT20-02/
 
 ## Tính năng
 
-- Bấm Dự án để xem 3 dự án học tập
+Bấm Dự án để xem 3 dự án học tập
 
 ## Cách mở
 
@@ -27,7 +27,7 @@ Xem docs/evidence-index.md
 
 ## Hạn chế / Chưa kiểm tra
 
-- Chưa thử trên iPhone
+Chưa thử trên iPhone
 
 ## Khai báo AI
 
