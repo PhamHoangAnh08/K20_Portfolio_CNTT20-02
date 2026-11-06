@@ -20,8 +20,8 @@ Hoàn thành nội dung file AI_log.md
 
 # Bản 6
 
-tạo file CHANGELOG.md và sửa file README.md
+Sửa file README.md
 
 # Bản 7
 
-Tạo folder
+Tạo folder docs và file CHANGELOG.md
